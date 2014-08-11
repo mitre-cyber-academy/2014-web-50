@@ -1,0 +1,10 @@
+.heading-bar {
+	color: white;
+}
+.heading-bar>.jumbotron {
+	background-color: black;
+}
+body {
+	padding-bottom: 50px;
+}
+/*Try another file.*/
